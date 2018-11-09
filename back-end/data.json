@@ -1,0 +1,12 @@
+[
+  { "id": 1, "product": "Handmade Vodka", "price": 19.99 },
+  { "id": 2, "product": "Alpine Gin", "price": 21.33 },
+  { "id": 3, "product": "Hibiscus Gin", "price": 22.66 },
+  { "id": 4, "product": "Purple Daze", "price": 22.66 },
+  { "id": 5, "product": "Rocky Mountain Silver Rum", "price": 19.99 },
+  { "id": 6, "product": "Rocky Mountain Gold Rum", "price": 23.33 },
+  { "id": 7, "product": "White Whiskey", "price": 19.99 },
+  { "id": 8, "product": "Woodcutters Whiskey", "price": 26.99 },
+  { "id": 9, "product": "Colorado Single Malt Whiskey", "price": 39.33 },
+  { "id": 10, "product": "Rye Whiskey", "price": 30.66 }
+]
