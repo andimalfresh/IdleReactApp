@@ -42,11 +42,6 @@ app.put("/:id", (req, res) => {
     if (id == obj.id) {
       return obj = {
         id: obj.id,
-        // spirit: obj.spirit,
-        // product: obj.product,
-        // retail: obj.retail,
-        // price: obj.price,
-        // tag: obj.tag,
         ...body
       };
     }
